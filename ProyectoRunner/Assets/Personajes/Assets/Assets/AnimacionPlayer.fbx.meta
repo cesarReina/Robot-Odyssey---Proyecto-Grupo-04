@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 41948006a2fb04f40ad08374368fdfe0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: brazo_izquierdo
+    100004: brazzo_derecho
+    100006: canilla_derecha
+    100008: canilla_izquierda
+    100010: codo_izquierdo
+    100012: codo_izquierdo 1
+    100014: exten_derecho
+    100016: exten_izquierda
+    100018: group3
+    100020: group5
+    100022: group6
+    100024: group8
+    100026: ikHandle1
+    100028: ikHandle2
+    100030: ikHandle3
+    100032: ikHandle4
+    100034: joint1
+    100036: joint2
+    100038: joint3
+    100040: nurbsCircle2
+    100042: nurbsCircle3
+    100044: nurbsCircle4
+    100046: nurbsCircle5
+    100048: nurbsCircle6
+    100050: pasted__group3
+    100052: pasted__group3 1
+    100054: pasted__group5
+    100056: pasted__pasted__group3
+    100058: pecho
+    100060: pie_derecho
+    100062: pie_izquierdo
+    100064: pierna_derecha
+    100066: pierna_izquierda
+    100068: polySurface25
+    100070: transform89
+    100072: transform90
+    400000: //RootNode
+    400002: brazo_izquierdo
+    400004: brazzo_derecho
+    400006: canilla_derecha
+    400008: canilla_izquierda
+    400010: codo_izquierdo
+    400012: codo_izquierdo 1
+    400014: exten_derecho
+    400016: exten_izquierda
+    400018: group3
+    400020: group5
+    400022: group6
+    400024: group8
+    400026: ikHandle1
+    400028: ikHandle2
+    400030: ikHandle3
+    400032: ikHandle4
+    400034: joint1
+    400036: joint2
+    400038: joint3
+    400040: nurbsCircle2
+    400042: nurbsCircle3
+    400044: nurbsCircle4
+    400046: nurbsCircle5
+    400048: nurbsCircle6
+    400050: pasted__group3
+    400052: pasted__group3 1
+    400054: pasted__group5
+    400056: pasted__pasted__group3
+    400058: pecho
+    400060: pie_derecho
+    400062: pie_izquierdo
+    400064: pierna_derecha
+    400066: pierna_izquierda
+    400068: polySurface25
+    400070: transform89
+    400072: transform90
+    2100000: metal_3
+    2100002: metal_5
+    2100004: metal_1
+    2100006: mqtal_2
+    2100008: metal_4
+    4300000: polySurface25
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface25
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
